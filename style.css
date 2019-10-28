@@ -1,0 +1,48 @@
+@charset "utf8";
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 1em;
+    
+}
+body{
+    background: linear-gradient(to left, #404040, #202020);
+}
+
+button{
+    width: 75px;
+    height: 40px;
+    border-radius: 2px;
+    border: none;
+    background-color: #e4e4e4;
+    margin: 5px;
+    transition: 1s;
+}
+
+input{
+    width: 250px;
+    height: 25px;
+    border-radius: 2px;
+    border: none;
+    background-color: #4c1788;
+    color: #fff;
+}
+
+input:focus{
+    background-color: #370e66;
+}
+
+main{
+    margin: auto;
+}
+
+.otherbutton{
+    background: linear-gradient(to left, #6804b9, #59058a);
+    color:#fff;
+}
+
+footer{
+    margin: 15px;
+    color: #fff;
+}
