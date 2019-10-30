@@ -10,3 +10,4 @@ Creating calculator to pratice EcmaScript6+
 * Html5
 * Css3
 * Yarnpkg
+* Jquery
